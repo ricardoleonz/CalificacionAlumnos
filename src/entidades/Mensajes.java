@@ -3,17 +3,9 @@ package entidades;
 public enum Mensajes {
     MENSAJE_NOTA_SEGUIMIENTO("Ingrese la nota de seguimiento: "),
 
-    MENSAJE_TITULO_SEGUIMIENTO("Nota de Seguimiento"),
-
     MENSAJE_NOTA_PARCIAL("Ingrese la nota del parcial: "),
 
-    MENSAJES_TITULO_PARCIAL("Nota del parcial"),
-
     MENSAJE_NOTA_EXAMEN_FINAL("Ingrese la nota del examen final: "),
-
-    MENSAJES_TITULO_EXAMEN("Nota del examen final"),
-
-    MENSAJES_TITULO_RESULTADO("Resultado"),
 
     MENSAJE_CALIFICACION_4_5(" Excelente, tu rendimiento ha sido el mejor."),
 
